@@ -1,2 +1,2 @@
 # Graduation journal
-Database for candidates graduation: marks, tests, filter.
+Persona filter for "txt" of test marks.
